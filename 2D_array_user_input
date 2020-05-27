@@ -1,0 +1,4 @@
+arr = []
+
+    for _ in xrange(6):
+        arr.append(map(int, raw_input().rstrip().split()))
